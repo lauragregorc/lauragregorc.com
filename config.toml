@@ -34,7 +34,7 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Hi, my name is Laura."
-    subtitle = "I am a software developer"
+    subtitle = "I am a software developer [WIP]"
     keywords = "test"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"

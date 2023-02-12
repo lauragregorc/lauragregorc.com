@@ -1,14 +1,16 @@
-baseurl      = "https://lauragregorc.com/"
+baseurl      = "https://lauragregorc.com"
 title        = "Laura Gregorc"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+relativeURLs = true
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+
 
   # Subtitle for home
   homeSubtitle = "I am a software developer"
@@ -17,7 +19,7 @@ paginate     = 10
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   enableThemeToggle = true
 
@@ -34,7 +36,7 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Hi, my name is Laura."
-    subtitle = "I am a software developer [WIP]"
+    subtitle = "I am a software developer"
     keywords = "test"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -46,6 +48,16 @@ paginate     = 10
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
+
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/lauragregorc"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/laura-gregorc-277a9b176/"
+
 
   # And you can even create generic menu
   [[menu.main]]

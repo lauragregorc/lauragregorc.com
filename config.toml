@@ -2,7 +2,7 @@ baseurl      = "https://lauragregorc.com"
 title        = "Laura Gregorc"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
+paginate     = 5
 relativeURLs = true
 
 [params]
@@ -22,6 +22,10 @@ relativeURLs = true
   enableSharingButtons = false
 
   enableThemeToggle = true
+  # light or dark
+  # defaultTheme = "light" not working?
+
+  showReadingTime = false
 
   # Metadata mostly used in document's head
   description = "Blog"

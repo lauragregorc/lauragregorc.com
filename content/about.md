@@ -4,8 +4,8 @@ date: 2023-02-11T22:52:54+01:00
 
 ---
 
-My name is Laura and i am a software engineer. \
-Currently, i am studying data science at the FH Joanneum Graz. By working part-time at Virtual Vehicle, i am trying to get more experience in this field.
+My name is Laura and I am a software engineer. \
+Currently, I am studying data science at the FH Joanneum Graz. In my master thesis I am trying to build an prototype of in-cabin gaze estimation using Flutter and transformers. By working part-time at Virtual Vehicle, I am trying to get more experience in this field.
 
 
 This site is work in progress

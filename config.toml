@@ -19,7 +19,7 @@ relativeURLs = true
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = false
+  enableSharingButtons = true
 
   enableThemeToggle = true
   # light or dark
